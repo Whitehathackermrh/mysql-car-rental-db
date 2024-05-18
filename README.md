@@ -1,6 +1,10 @@
 Car Rental System Database (MySQL)
 This repository provides a complete car rental system database built with MySQL. It includes everything you need to understand the system's design, functionalities, and implementation.
 
+
+Video Link: https://youtu.be/XcHNQBw3C7E
+
+
 What's Included:
 
 MySQL Database Schema:
